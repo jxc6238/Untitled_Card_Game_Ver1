@@ -1,0 +1,14 @@
+﻿  AttackCard.cpp
+  Card.cpp
+  Deck.cpp
+C:\Users\Jeffrey\source\repos\IntroCardGame\IntroCardGame\Deck.cpp(16,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Game.cpp
+  HealthCard.cpp
+  IntroCardGame.cpp
+  Player.cpp
+C:\Users\Jeffrey\source\repos\IntroCardGame\IntroCardGame\Player.cpp(34,20): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 302 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  IntroCardGame.vcxproj -> C:\Users\Jeffrey\source\repos\IntroCardGame\Release\IntroCardGame.exe

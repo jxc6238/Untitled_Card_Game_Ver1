@@ -1,0 +1,4 @@
+AttackCard,5,Attack+5,2
+HealthCard,3,Health+3,3
+AttackCard,4,Attack+4,1
+ArmorCard,4,Armor+4,2

@@ -1,0 +1,15 @@
+HealthCard,3,Health+3,1
+HealthCard,5,Health+5,3
+ArmorCard,7,Armor+7,5
+AttackCard,9,Attack+9,15
+ArmorCard,20,Armor+20,20
+ArmorCard,10,Armor+10,7
+AttackCard,3,Attack+3,2
+AttackCard,3,Attack+3,2
+AttackCard,3,Attack+3,2
+AttackCard,3,Attack+3,2
+AttackCard,3,Attack+3,2
+AttackCard,3,Attack+3,2
+AttackCard,3,Attack+3,2
+AttackCard,3,Attack+3,2
+AttackCard,3,Attack+3,2

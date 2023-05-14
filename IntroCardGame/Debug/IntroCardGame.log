@@ -1,0 +1,4 @@
+﻿  Game.cpp
+C:\Users\Jeffrey\source\repos\IntroCardGame\IntroCardGame\Game.cpp(62,11): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\Jeffrey\source\repos\IntroCardGame\IntroCardGame\Game.cpp(62,40): warning C4804: '<=': unsafe use of type 'bool' in operation
+  IntroCardGame.vcxproj -> C:\Users\Jeffrey\source\repos\IntroCardGame\Debug\IntroCardGame.exe
