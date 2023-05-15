@@ -59,7 +59,7 @@ void Player::Shuffle() {
 	this->playerDeck.ShuffleDeck();
 }
 void Player::DisplayHand() {
-	for (int i = 0; i < hand.size(); i++) {
+	for (unsigned int i = 0; i < hand.size(); i++) {
 		Card tmp = *this->hand[i];
 		cout << i + 1 << ". Type:" << tmp.GetType() << " Name:"
 			<< tmp.GetName() << " Cost:" << tmp.GetCost() << " Modifier:";

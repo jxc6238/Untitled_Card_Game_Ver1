@@ -59,6 +59,6 @@ void Game::GameLoop() {
 		}
 		cardChoice = 1;
 		cout << endl << endl;
-	} while (!player1.GetHealth() <= 0 || !player2.GetHealth() <= 0);
+	} while (player1.GetHealth() > 0 && player2.GetHealth() > 0);
 	return;
 }

@@ -1,4 +1,12 @@
-﻿  Game.cpp
-C:\Users\Jeffrey\source\repos\IntroCardGame\IntroCardGame\Game.cpp(62,11): warning C4804: '<=': unsafe use of type 'bool' in operation
-C:\Users\Jeffrey\source\repos\IntroCardGame\IntroCardGame\Game.cpp(62,40): warning C4804: '<=': unsafe use of type 'bool' in operation
-  IntroCardGame.vcxproj -> C:\Users\Jeffrey\source\repos\IntroCardGame\Debug\IntroCardGame.exe
+﻿  ArmorCard.cpp
+  AttackCard.cpp
+  Card.cpp
+  Deck.cpp
+C:\Users\Jeffrey\Documents\GitHub\Ver1\IntroCardGame\Deck.cpp(19,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Game.cpp
+  HealthCard.cpp
+  IntroCardGame.cpp
+  Player.cpp
+C:\Users\Jeffrey\Documents\GitHub\Ver1\IntroCardGame\Player.cpp(88,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  IntroCardGame.vcxproj -> C:\Users\Jeffrey\Documents\GitHub\Ver1\Debug\IntroCardGame.exe
